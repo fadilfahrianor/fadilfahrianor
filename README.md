@@ -1,39 +1,19 @@
-# Hi, I'm Fadil Fahrianor
-
-### 💻 Web Developer from Indonesia
-
----
-
-## 🚀 About Me
-
-* 🔭 Currently working on: **Web Development Projects**
-* 🌱 Currently learning: **PHP, JavaScript**
-* 🎯 Goal: Become a **Full Stack Developer**
-* 📫 Contact: [your.email@example.com](fahrianorfadi@gmail.com)
+<h1 align="center">Hi 👋, I'm Fadil Fahrianor</h1>
+<h3 align="center">Web Developer from Indonesia</h3>
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 About Me
+- 🔭 I’m currently working on: Web Project
+- 🌱 I’m currently learning: PHP, JavaScript
+- 👨‍💻 All of my projects: https://github.com/fadilfahrianor
+- 📫 How to reach me: fahrianorfadil@gmail.com
 
-### 🌐 Frontend
+---
 
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### ⚙️ Backend
-
-![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge\&logo=php\&logoColor=white)
-
-### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### 🧰 Tools
-
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,mysql&size=80&perline=6" />
+</p>
 
 ---
 
@@ -47,21 +27,27 @@
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=fadilfahrianor\&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/fadil.fahriii)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/fadilfahrianor)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/yourusername)
 
 ---
 
-## ✨ Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blue)
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
+</p>
 
 ---
 
-⭐ From [YOUR_USERNAME](https://github.com/fadilfahrianor)
+### ✨ Quote
+> "Code is like humor. When you have to explain it, it’s bad."
