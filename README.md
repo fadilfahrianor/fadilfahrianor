@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fadil</h1>
+<h1 align="center">Hi 👋, I'm Fadil Fadhrianor</h1>
 <h3 align="center">Web Developer from Indonesia</h3>
 
 ---
@@ -6,8 +6,8 @@
 ### 🚀 About Me
 - 🔭 I’m currently working on: Web Project
 - 🌱 I’m currently learning: PHP, JavaScript
-- 👨‍💻 All of my projects: https://github.com/username
-- 📫 How to reach me: email@gmail.com
+- 👨‍💻 All of my projects: https://github.com/fadilfahrianor
+- 📫 How to reach me: fahrianorfadil@gmail.com
 
 ---
 
