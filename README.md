@@ -18,21 +18,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 GitHub Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=username&theme=onedark" />
-</p>
-
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
