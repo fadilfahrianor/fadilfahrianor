@@ -12,8 +12,8 @@
 ---
 
 ### 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,mysql&size=80" />
 </p>
 
 ---
