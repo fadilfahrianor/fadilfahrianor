@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fadil Fahrianor
+# Hi, I'm Fadil Fahrianor
 
 ### 💻 Web Developer from Indonesia
 
@@ -9,7 +9,7 @@
 * 🔭 Currently working on: **Web Development Projects**
 * 🌱 Currently learning: **PHP, JavaScript**
 * 🎯 Goal: Become a **Full Stack Developer**
-* 📫 Contact: [your.email@example.com](mailto:your.email@example.com)
+* 📫 Contact: [your.email@example.com](fahrianorfadi@gmail.com)
 
 ---
 
@@ -39,9 +39,9 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=fadilfahrianor\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadilfahrianor\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -53,7 +53,7 @@
 
 ## 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/yourusername)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/fadil.fahriii)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/yourusername)
 
 ---
@@ -64,4 +64,4 @@
 
 ---
 
-⭐ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐ From [YOUR_USERNAME](https://github.com/fadilfahrianor)
