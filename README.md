@@ -12,7 +12,12 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=header&text=My%20Tech%20Stack&fontSize=30&fontColor=ffffff" />
+  <img src="https://skillicons.dev/icons?i=html" height="60"/>
+  <img src="https://skillicons.dev/icons?i=css" height="60"/>
+  <img src="https://skillicons.dev/icons?i=js" height="60"/>
+  <img src="https://skillicons.dev/icons?i=php" height="60"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="60"/>
 </p>
 
 ---
