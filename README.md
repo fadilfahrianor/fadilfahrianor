@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,mysql&size=80&perline=6" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=header&text=My%20Tech%20Stack&fontSize=30&fontColor=ffffff" />
 </p>
 
 ---
